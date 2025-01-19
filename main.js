@@ -1,4 +1,5 @@
 "use strict";
-let message = "Hello, TypeScript!";
+let message = "Hello TypeScript!";
 console.log(message);
-///terminal.integrated.cwd
+console.log("HI");
+///terminal.integrated.cwd`

@@ -1,5 +1,6 @@
-let message: string = "Hello, TypeScript!";
+let message: string = "Hello TypeScript!";
 console.log(message);
+console.log("HI")
 
 
-///terminal.integrated.cwd
+///terminal.integrated.cwd`
